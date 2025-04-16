@@ -27,6 +27,9 @@ This commands includes
 <BR>
 
 ## Output
+![WhatsApp Image 2025-04-16 at 10 58 10_b1051562](https://github.com/user-attachments/assets/d95ad3a4-51ac-4b28-8c11-7b05a99e2c01)
+![WhatsApp Image 2025-04-16 at 10 58 32_e6ee54e6](https://github.com/user-attachments/assets/f414b19a-e59e-4cdc-af0b-e1b7889f0a9b)
+
 
 ## Result
 Thus Execution of Network commands Performed 
